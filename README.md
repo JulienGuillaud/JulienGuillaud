@@ -1,7 +1,7 @@
 
 # Je suis Julien GUILLAUD
 
-Diplomé d'un BTS SIO, d'un Bachelor Architecture des logiciels et actuellement en Master Architecture des logiciels à l'ESGI de Lyon
+Diplomé d'un BTS SIO, d'un Bachelor et d'un Master d'Architecture logiciel à l'ESGI de Lyon
 
 Je suis passionné d'informatique depuis mon plus jeune âge, et c'est pour cette raison que j'ai orienté mes études vers ce domaine.
 
